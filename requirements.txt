@@ -1,0 +1,4 @@
+pandas~=2.0.1
+pypdf2~=3.0.1
+docx2python~=2.6.3
+striprtf~=0.0.22

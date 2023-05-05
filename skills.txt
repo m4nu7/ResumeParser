@@ -1,0 +1,33 @@
+Statistical analysis and computing
+Machine Learning
+Deep Learning
+Processing large data sets
+Data Visualization
+Data Wrangling
+Mathematics
+Programming
+Statistics
+Big Data
+html
+css
+javascript
+data science
+machine learning
+artificial intelligence
+python
+c
+c++
+regression
+ml
+dl
+nlp
+Decision Making
+Business Intelligence
+Exploratory Data Analysis
+EDA
+Neural Networks
+Hadoop
+Cloud Computing
+sql
+Database
+Any other skills can be added
